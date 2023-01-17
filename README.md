@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome books <a name="about-project"></a>
+# 📖 Webpack boilerplate <a name="about-project"></a>
 
 > This repository serves as a boilerplate for Webpack, which uses it to setup files for asset management, HTML, JavaScript, and CSS. It also uses the Node package manager.
 
